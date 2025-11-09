@@ -142,7 +142,7 @@
                         <use xlink:href="{{ asset('vendors/@coreui/icons/svg/free.svg') }}#cil-bell"></use>
                     </svg>
 
-                    {{-- ✅ الدائرة الحمراء --}}
+                    {{-- Red Color Of Notification --}}
                     @if(auth()->check() && auth()->user()->unreadNotifications->count() > 0)
                         <span id="notification-badge" class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
                             {{ auth()->user()->unreadNotifications->count() }}
@@ -150,19 +150,20 @@
                     @endif
                 </a>
 
-                {{-- ✅ القائمة المنسدلة --}}
+                {{-- Dropdown List --}}
+
                 <ul class="dropdown-menu dropdown-menu-end shadow" aria-labelledby="notificationDropdown"
                     style="width: 320px; max-height: 420px; overflow-y:auto;" id="notification-list">
-                    <li class="dropdown-header text-center fw-bold">الإشعارات</li>
+                    <li class="dropdown-header text-center fw-bold">Notifications</li>
                     <li><hr class="dropdown-divider"></li>
 
-                    @forelse (auth()->check() ? auth()->user()->notifications->take(5) : collect() as $notification)
+                    @forelse (auth()->check() ? auth()->user()->notifications()->latest()->take(4)->get() : collect() as $notification)
                         <li class="dropdown-item {{ $notification->read_at ? '' : 'bg-light' }}">
-                            <div class="fw-semibold">{{ $notification->data['message'] ?? 'إشعار جديد' }}</div>
+                            <div class="fw-semibold">{{ $notification->data['message'] ?? 'New Notification' }}</div>
                             <small class="text-muted">{{ $notification->created_at->diffForHumans() }}</small>
                         </li>
                     @empty
-                        <li class="dropdown-item text-center text-muted">لا توجد إشعارات</li>
+                        <li class="dropdown-item text-center text-muted"> There Is No Notification </li>
                     @endforelse
 
                     <li><hr class="dropdown-divider"></li>

@@ -17,7 +17,7 @@ class NewOrderPlaced extends Notification implements ShouldQueue
         $this->order = $order;
     }
 
-    // قنوات الإرسال: database + broadcast + mail (حسب الحاجة)
+    
     public function via($notifiable)
     {
         $channels = ['database'];
