@@ -1,0 +1,76 @@
+com.waelabohamza.ecommercecourse.app-jetified-lifecycle-process-2.7.0-0 C:\Users\Windows 10\.gradle\caches\transforms-3\0191fec48062e2b9e60bb7632b1caf0b\transformed\jetified-lifecycle-process-2.7.0\res
+com.waelabohamza.ecommercecourse.app-browser-1.8.0-1 C:\Users\Windows 10\.gradle\caches\transforms-3\0d6860d404fab1b4de2c8cd423f14993\transformed\browser-1.8.0\res
+com.waelabohamza.ecommercecourse.app-constraintlayout-2.1.4-2 C:\Users\Windows 10\.gradle\caches\transforms-3\0de722ef397f14bcec48d6000e3eff34\transformed\constraintlayout-2.1.4\res
+com.waelabohamza.ecommercecourse.app-jetified-startup-runtime-1.1.1-3 C:\Users\Windows 10\.gradle\caches\transforms-3\0e6f90c8ce9efb637aefa1c0155e0840\transformed\jetified-startup-runtime-1.1.1\res
+com.waelabohamza.ecommercecourse.app-jetified-activity-ktx-1.9.3-4 C:\Users\Windows 10\.gradle\caches\transforms-3\1100c518c51b9ebbbd7bcd05edc058e6\transformed\jetified-activity-ktx-1.9.3\res
+com.waelabohamza.ecommercecourse.app-jetified-zxing-android-embedded-4.3.0-5 C:\Users\Windows 10\.gradle\caches\transforms-3\168465c8753a621d46b75b2bca814fd0\transformed\jetified-zxing-android-embedded-4.3.0\res
+com.waelabohamza.ecommercecourse.app-jetified-play-services-auth-21.0.0-6 C:\Users\Windows 10\.gradle\caches\transforms-3\1d6c981e7424021cba29f176cbe94a8d\transformed\jetified-play-services-auth-21.0.0\res
+com.waelabohamza.ecommercecourse.app-core-1.13.1-7 C:\Users\Windows 10\.gradle\caches\transforms-3\1da88efec09b9602ad60eeb8e16e5d4a\transformed\core-1.13.1\res
+com.waelabohamza.ecommercecourse.app-recyclerview-1.2.1-8 C:\Users\Windows 10\.gradle\caches\transforms-3\25a5bd154ff195c09b46648e3eb0da69\transformed\recyclerview-1.2.1\res
+com.waelabohamza.ecommercecourse.app-jetified-activity-1.9.3-9 C:\Users\Windows 10\.gradle\caches\transforms-3\28ddea8654b73ecfb80f5863b9dc4d4b\transformed\jetified-activity-1.9.3\res
+com.waelabohamza.ecommercecourse.app-jetified-scanplus-2.1.0.300-10 C:\Users\Windows 10\.gradle\caches\transforms-3\2b5c7e61df2ad3627baf46395f5f9640\transformed\jetified-scanplus-2.1.0.300\res
+com.waelabohamza.ecommercecourse.app-jetified-profileinstaller-1.3.1-11 C:\Users\Windows 10\.gradle\caches\transforms-3\2d2399a01ad7b627a9d308845f35d6de\transformed\jetified-profileinstaller-1.3.1\res
+com.waelabohamza.ecommercecourse.app-jetified-play-services-basement-18.3.0-12 C:\Users\Windows 10\.gradle\caches\transforms-3\30e9e93f194e7676bcf2b8abf5d609f2\transformed\jetified-play-services-basement-18.3.0\res
+com.waelabohamza.ecommercecourse.app-jetified-core-1.0.0-13 C:\Users\Windows 10\.gradle\caches\transforms-3\3725a1226c2798262f968f711e7fb6e2\transformed\jetified-core-1.0.0\res
+com.waelabohamza.ecommercecourse.app-jetified-lifecycle-runtime-ktx-2.7.0-14 C:\Users\Windows 10\.gradle\caches\transforms-3\382532b45c44c10d4db03862c4279eda\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.waelabohamza.ecommercecourse.app-lifecycle-livedata-core-2.7.0-15 C:\Users\Windows 10\.gradle\caches\transforms-3\3a94122960c88d7b9441ffff0ce61bcc\transformed\lifecycle-livedata-core-2.7.0\res
+com.waelabohamza.ecommercecourse.app-jetified-compress-v3.11.2-16 C:\Users\Windows 10\.gradle\caches\transforms-3\3c2ea8ac1d7b536760391d05133bafed\transformed\jetified-compress-v3.11.2\res
+com.waelabohamza.ecommercecourse.app-core-runtime-2.2.0-17 C:\Users\Windows 10\.gradle\caches\transforms-3\40aac24cad8ee79930c6560dc7f58a96\transformed\core-runtime-2.2.0\res
+com.waelabohamza.ecommercecourse.app-jetified-android-maps-utils-3.6.0-18 C:\Users\Windows 10\.gradle\caches\transforms-3\42bdfc03b0a379dfe9fcbce18146337f\transformed\jetified-android-maps-utils-3.6.0\res
+com.waelabohamza.ecommercecourse.app-jetified-datastore-release-19 C:\Users\Windows 10\.gradle\caches\transforms-3\480b894ddbd7baf3a52bf298943b5736\transformed\jetified-datastore-release\res
+com.waelabohamza.ecommercecourse.app-jetified-pictureselector-v3.11.2-20 C:\Users\Windows 10\.gradle\caches\transforms-3\4fd3ec0b7c6e79f7991ae80693b0b865\transformed\jetified-pictureselector-v3.11.2\res
+com.waelabohamza.ecommercecourse.app-fragment-1.7.1-21 C:\Users\Windows 10\.gradle\caches\transforms-3\58a92affe6a731be87a06d787bcd9f5d\transformed\fragment-1.7.1\res
+com.waelabohamza.ecommercecourse.app-jetified-fragment-ktx-1.7.1-22 C:\Users\Windows 10\.gradle\caches\transforms-3\5a72102385f1e21f7229e23f079b0399\transformed\jetified-fragment-ktx-1.7.1\res
+com.waelabohamza.ecommercecourse.app-jetified-network-common-4.0.20.301-23 C:\Users\Windows 10\.gradle\caches\transforms-3\63fa1bf8ceeeee63b648d1dff670141a\transformed\jetified-network-common-4.0.20.301\res
+com.waelabohamza.ecommercecourse.app-jetified-ucrop-v3.11.2-24 C:\Users\Windows 10\.gradle\caches\transforms-3\6b574751968cfac488145418be198c9f\transformed\jetified-ucrop-v3.11.2\res
+com.waelabohamza.ecommercecourse.app-jetified-firebase-common-21.0.0-25 C:\Users\Windows 10\.gradle\caches\transforms-3\73067eadfc804d7a45eaa2126136b900\transformed\jetified-firebase-common-21.0.0\res
+com.waelabohamza.ecommercecourse.app-jetified-glide-4.13.2-26 C:\Users\Windows 10\.gradle\caches\transforms-3\739f791636c005668de63cee2a57067d\transformed\jetified-glide-4.13.2\res
+com.waelabohamza.ecommercecourse.app-jetified-viewpager2-1.0.0-27 C:\Users\Windows 10\.gradle\caches\transforms-3\7465cf55a52a680555d27b29968b02b5\transformed\jetified-viewpager2-1.0.0\res
+com.waelabohamza.ecommercecourse.app-jetified-tracing-1.2.0-28 C:\Users\Windows 10\.gradle\caches\transforms-3\79d2190ccfa79b4f12dd0d3ccbe435ec\transformed\jetified-tracing-1.2.0\res
+com.waelabohamza.ecommercecourse.app-slidingpanelayout-1.2.0-29 C:\Users\Windows 10\.gradle\caches\transforms-3\7af2f1906fbb2787720f1e00dd27ca2c\transformed\slidingpanelayout-1.2.0\res
+com.waelabohamza.ecommercecourse.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-30 C:\Users\Windows 10\.gradle\caches\transforms-3\929f0e0fdcc0108227b68e941361c798\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.waelabohamza.ecommercecourse.app-jetified-datastore-preferences-release-31 C:\Users\Windows 10\.gradle\caches\transforms-3\94d67316d331bf9e79d77a16e5883178\transformed\jetified-datastore-preferences-release\res
+com.waelabohamza.ecommercecourse.app-jetified-window-1.2.0-32 C:\Users\Windows 10\.gradle\caches\transforms-3\963e318977ec00478c23b0d56cfb97db\transformed\jetified-window-1.2.0\res
+com.waelabohamza.ecommercecourse.app-jetified-lifecycle-viewmodel-ktx-2.7.0-33 C:\Users\Windows 10\.gradle\caches\transforms-3\969cb1d938e05141aa039bb561c70359\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.waelabohamza.ecommercecourse.app-preference-1.2.1-34 C:\Users\Windows 10\.gradle\caches\transforms-3\9fa5c7abba6597fce35875af02d797f8\transformed\preference-1.2.1\res
+com.waelabohamza.ecommercecourse.app-localbroadcastmanager-1.1.0-35 C:\Users\Windows 10\.gradle\caches\transforms-3\a204aeaa2fd97b6ede7c3b0f46e8d7d4\transformed\localbroadcastmanager-1.1.0\res
+com.waelabohamza.ecommercecourse.app-lifecycle-viewmodel-2.7.0-36 C:\Users\Windows 10\.gradle\caches\transforms-3\aac9a4a0a3e6c0ab2d8e1ac49c7ea47d\transformed\lifecycle-viewmodel-2.7.0\res
+com.waelabohamza.ecommercecourse.app-jetified-firebase-messaging-24.1.0-37 C:\Users\Windows 10\.gradle\caches\transforms-3\af7c6a888c600b6c6f5d2f69cc3cc0a9\transformed\jetified-firebase-messaging-24.1.0\res
+com.waelabohamza.ecommercecourse.app-jetified-savedstate-1.2.1-38 C:\Users\Windows 10\.gradle\caches\transforms-3\b3aee2de04b4e22f6c4b0f52d5e5680c\transformed\jetified-savedstate-1.2.1\res
+com.waelabohamza.ecommercecourse.app-jetified-play-services-base-18.3.0-39 C:\Users\Windows 10\.gradle\caches\transforms-3\b4c87376aba78f57c1d73d602e6f9cc6\transformed\jetified-play-services-base-18.3.0\res
+com.waelabohamza.ecommercecourse.app-jetified-window-java-1.2.0-40 C:\Users\Windows 10\.gradle\caches\transforms-3\bb159eea808936d1af419a5edd2a6b11\transformed\jetified-window-java-1.2.0\res
+com.waelabohamza.ecommercecourse.app-jetified-lifecycle-livedata-core-ktx-2.7.0-41 C:\Users\Windows 10\.gradle\caches\transforms-3\c5efcd95fe4251b2cf5461d6ab6dddf4\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.waelabohamza.ecommercecourse.app-jetified-savedstate-ktx-1.2.1-42 C:\Users\Windows 10\.gradle\caches\transforms-3\c78195bfff2bd814a859a271d1f644d4\transformed\jetified-savedstate-ktx-1.2.1\res
+com.waelabohamza.ecommercecourse.app-appcompat-1.3.1-43 C:\Users\Windows 10\.gradle\caches\transforms-3\cd54e75c29e1b6ae019511a0f225ba17\transformed\appcompat-1.3.1\res
+com.waelabohamza.ecommercecourse.app-jetified-datastore-core-release-44 C:\Users\Windows 10\.gradle\caches\transforms-3\d521c372a5c9ea1f1b1aed2359bca95e\transformed\jetified-datastore-core-release\res
+com.waelabohamza.ecommercecourse.app-jetified-appcompat-resources-1.3.1-45 C:\Users\Windows 10\.gradle\caches\transforms-3\d573006c9d25e498ba1a0fb9fda6137c\transformed\jetified-appcompat-resources-1.3.1\res
+com.waelabohamza.ecommercecourse.app-jetified-annotation-experimental-1.4.0-46 C:\Users\Windows 10\.gradle\caches\transforms-3\d67ccfad87c6a0fd36beb9d5597366ff\transformed\jetified-annotation-experimental-1.4.0\res
+com.waelabohamza.ecommercecourse.app-lifecycle-runtime-2.7.0-47 C:\Users\Windows 10\.gradle\caches\transforms-3\de3a39c56c61b31701e7f290dbe6d3bd\transformed\lifecycle-runtime-2.7.0\res
+com.waelabohamza.ecommercecourse.app-jetified-play-services-maps-18.2.0-48 C:\Users\Windows 10\.gradle\caches\transforms-3\e5505de9997f10b420f6663d177ead0b\transformed\jetified-play-services-maps-18.2.0\res
+com.waelabohamza.ecommercecourse.app-transition-1.4.1-49 C:\Users\Windows 10\.gradle\caches\transforms-3\ecb7f806292a1c96ba5b68da5afe98bf\transformed\transition-1.4.1\res
+com.waelabohamza.ecommercecourse.app-media-1.1.0-50 C:\Users\Windows 10\.gradle\caches\transforms-3\f117eac0234e8a6a44a6f45929293315\transformed\media-1.1.0\res
+com.waelabohamza.ecommercecourse.app-jetified-core-ktx-1.13.1-51 C:\Users\Windows 10\.gradle\caches\transforms-3\f9e56e1175cba4d8423f7366fcb97a9e\transformed\jetified-core-ktx-1.13.1\res
+com.waelabohamza.ecommercecourse.app-debug-52 H:\IT\ecommercecourse\android\app\src\debug\res
+com.waelabohamza.ecommercecourse.app-main-53 H:\IT\ecommercecourse\android\app\src\main\res
+com.waelabohamza.ecommercecourse.app-pngs-54 H:\IT\ecommercecourse\build\app\generated\res\pngs\debug
+com.waelabohamza.ecommercecourse.app-resValues-55 H:\IT\ecommercecourse\build\app\generated\res\resValues\debug
+com.waelabohamza.ecommercecourse.app-rs-56 H:\IT\ecommercecourse\build\app\generated\res\rs\debug
+com.waelabohamza.ecommercecourse.app-packageDebugResources-57 H:\IT\ecommercecourse\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.waelabohamza.ecommercecourse.app-packageDebugResources-58 H:\IT\ecommercecourse\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.waelabohamza.ecommercecourse.app-merged_res-59 H:\IT\ecommercecourse\build\app\intermediates\merged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-60 H:\IT\ecommercecourse\build\cloud_firestore\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-61 H:\IT\ecommercecourse\build\firebase_core\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-62 H:\IT\ecommercecourse\build\firebase_messaging\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-63 H:\IT\ecommercecourse\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-64 H:\IT\ecommercecourse\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-65 H:\IT\ecommercecourse\build\geocoding_android\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-66 H:\IT\ecommercecourse\build\geolocator_android\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-67 H:\IT\ecommercecourse\build\google_maps_flutter_android\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-68 H:\IT\ecommercecourse\build\google_sign_in_android\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-69 H:\IT\ecommercecourse\build\image_picker_android\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-70 H:\IT\ecommercecourse\build\image_pickers\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-71 H:\IT\ecommercecourse\build\path_provider_android\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-72 H:\IT\ecommercecourse\build\scan\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-73 H:\IT\ecommercecourse\build\shared_preferences_android\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-74 H:\IT\ecommercecourse\build\sqflite_android\intermediates\packaged_res\debug
+com.waelabohamza.ecommercecourse.app-packaged_res-75 H:\IT\ecommercecourse\build\url_launcher_android\intermediates\packaged_res\debug
