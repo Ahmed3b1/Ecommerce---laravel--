@@ -1,61 +1,249 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Fruitkha — Laravel E-Commerce
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+A full-stack **E-Commerce web application built with Laravel**, designed to provide a complete online shopping experience with product management, shopping cart functionality, authentication, and an administrative dashboard.
 
-## About Laravel
+The project demonstrates practical experience in building scalable web applications using **Laravel, PHP, MySQL, Blade, and modern web development practices**.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+##  Features
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+###  Customer Features
 
-## Learning Laravel
+* Browse available products
+* View product details
+* Add products to the shopping cart
+* Update product quantities
+* Remove products from the cart
+* View cart details
+* User authentication
+* User registration and login
+* Responsive shopping experience
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+###  Admin Features
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+* Administrative dashboard
+* Product management
+* Create products
+* Edit products
+* Delete products
+* View product information
+* Manage store data
+* Administrative access control
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+###  Authentication & Authorization
 
-## Laravel Sponsors
+The application includes user authentication and authorization to separate customer functionality from administrative functionality.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Different users can access different parts of the application according to their permissions.
 
-### Premium Partners
+##  Technologies
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+* **PHP**
+* **Laravel**
+* **MySQL**
+* **Blade**
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **Bootstrap**
+* **Git & GitHub**
 
-## Contributing
+##  Architecture
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+The application follows Laravel's **MVC (Model-View-Controller)** architecture.
 
-## Code of Conduct
+### Models
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Models are responsible for interacting with the database and representing the application's main entities.
 
-## Security Vulnerabilities
+### Controllers
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Controllers handle incoming requests, process application logic, and communicate with models and views.
 
-## License
+### Views
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The frontend is built using Laravel Blade templates to create the customer-facing store and administrative interface.
+
+### Database
+
+MySQL is used as the primary database for storing application data and managing relationships between the different entities.
+
+##  Shopping Cart
+
+The shopping cart allows customers to manage the products they intend to purchase.
+
+Customers can:
+
+* Add products to the cart
+* Change product quantities
+* Remove products
+* Review their selected products
+* Calculate the cart total
+
+##  Product Management
+
+The administration system provides CRUD functionality for managing the store's products.
+
+Administrators can:
+
+* Add new products
+* Update existing products
+* Remove products
+* View product information
+
+##  Security
+
+The application follows Laravel's built-in security mechanisms and practices, including:
+
+* Authentication
+* Authorization
+* CSRF protection
+* Request validation
+* Secure password handling
+* Protected administrative routes
+
+##  Database
+
+The application uses **MySQL** for persistent data storage.
+
+The database contains the main entities required to operate the e-commerce platform, including products, users, and shopping cart/order-related data.
+
+##  Installation
+
+### 1. Clone the repository
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+### 2. Navigate to the project
+
+```bash
+cd fruitkha
+```
+
+### 3. Install PHP dependencies
+
+```bash
+composer install
+```
+
+### 4. Create the environment file
+
+```bash
+cp .env.example .env
+```
+
+On Windows, you can copy `.env.example` and rename it to `.env`.
+
+### 5. Generate the application key
+
+```bash
+php artisan key:generate
+```
+
+### 6. Configure the database
+
+Update your `.env` file:
+
+```env
+DB_DATABASE=your_database
+DB_USERNAME=your_username
+DB_PASSWORD=your_password
+```
+
+### 7. Run migrations
+
+```bash
+php artisan migrate
+```
+
+If the project contains seeders:
+
+```bash
+php artisan db:seed
+```
+
+### 8. Create the storage link
+
+```bash
+php artisan storage:link
+```
+
+### 9. Install frontend dependencies
+
+```bash
+npm install
+```
+
+### 10. Run the development server
+
+Start Laravel:
+
+```bash
+php artisan serve
+```
+
+In another terminal, start the frontend development server:
+
+```bash
+npm run dev
+```
+
+The application will be available at:
+
+```text
+http://127.0.0.1:8000
+```
+
+##  Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Products
+
+![Products](screenshots/products.png)
+
+### Product Details
+
+![Product Details](screenshots/product-details.png)
+
+### Shopping Cart
+
+![Shopping Cart](screenshots/cart.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+##  Project Purpose
+
+Fruitkha was developed as a practical Laravel project to strengthen my experience in building real-world e-commerce applications.
+
+The project provided hands-on experience with:
+
+* Laravel MVC architecture
+* Database design
+* Eloquent ORM
+* Authentication and authorization
+* CRUD operations
+* Shopping cart workflows
+* Blade templating
+* Form validation
+* Backend and frontend integration
+* Administrative dashboards
+
+##  Author
+
+**Ahmed Abdelwahed**
+
+Full-Stack Developer specialized in **Laravel, React, and Next.js**.
+
+* GitHub: https://github.com/Ahmed3b1
+* LinkedIn: https://linkedin.com/in/ahmed-abdelwahed-181860306
+
+##  License
+
+This project was developed as a practical Laravel and E-Commerce project.
